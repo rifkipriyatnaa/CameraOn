@@ -3,6 +3,8 @@ Pada saat awal masuk ke website ada notifikasi "rifkipriyatnaa
 github.io ingin menggunakan kamera anda" nah jika seperti itu klik IZINKAN atau dalam bahasa inggris ACCEPT
 
 Cara mengaktifkan kamera,
+
+
 1.klik tombol titik 3 kebawah (posisi di ujung kanan atas)
 
 
